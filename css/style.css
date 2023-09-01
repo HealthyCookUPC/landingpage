@@ -80,8 +80,8 @@ section{
 }
 
 .header{
-   padding-top: 2rem;
-   padding-bottom: 2rem;
+   padding-top: 1rem;
+   padding-bottom: 1rem;
    display: flex;
    align-items: center;
    justify-content: space-between;
@@ -93,7 +93,7 @@ section{
 }
 
 .header .logo img{
-   height: 100px;
+   height: 60px;
    width: auto;
 }
 
