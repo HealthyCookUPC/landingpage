@@ -204,6 +204,7 @@ section{
    align-items: center;
    flex-wrap: wrap;
    gap:2rem;
+   height: 100vh;
 }
 
 .about .image{
